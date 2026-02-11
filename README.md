@@ -3,10 +3,9 @@
 ## Repository Outline
 
 Repository ini berisi seluruh file yang digunakan dalam proses analisis, pemodelan, hingga deployment model machine learning untuk memprediksi resiko diabetes.  
-description.md - Deskripsi singkat dan ringkasan project  
 README.md - Dokumentasi utama project  
-P1M2_Muhammad_Damar.ipynb - Notebook training dan evaluasi model  
-P1M2_Muhammad_Damar_inf.ipynb - Notebook inference menggunakan model terbaik  
+Diabetes.ipynb - Notebook training dan evaluasi model  
+Diabetesinf.ipynb - Notebook inference menggunakan model terbaik  
 
 ```
 deployment/
@@ -89,11 +88,11 @@ Metrik utama yang digunakan adalah Recall, mengingat pentingnya meminimalkan kes
 - Pandas Docs: https://pandas.pydata.org/docs/user_guide/index.html
 - Scikit-Learn Docs: https://scikit-learn.org/stable/index.html
 - Imbalanced-Learn Docs: https://imbalanced-learn.org/stable/
-- Url Deployment: https://huggingface.co/spaces/J1nTomank/P1M2_Muhammad_Damar_Model
+- Url Deployment: https://huggingface.co/spaces/J1nTomank/Diabetes_Model
 - Url Dataset: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset/data?select=diabetes_binary_health_indicators_BRFSS2015.csv
 - Url File Model: https://drive.google.com/drive/folders/1_7nywyeDbhK7r0lvdCKXTNzOolk2APgc?usp=drive_link
 
 ---
 
 **Notes**
-Untuk file deploy, mohon buka pada folder P1M2_Muhammad_Damar_ModelNew ya. Terima Kasih.
+No Notes
