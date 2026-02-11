@@ -1,0 +1,3 @@
+Url Deployment: https://huggingface.co/spaces/J1nTomank/P1M2_Muhammad_Damar_Model
+Url Dataset: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset/data?select=diabetes_binary_health_indicators_BRFSS2015.csv
+Url File Model: https://drive.google.com/drive/folders/1_7nywyeDbhK7r0lvdCKXTNzOolk2APgc?usp=drive_link
